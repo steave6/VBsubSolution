@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("subSolution")>
+<Assembly: AssemblyTitle("WindowsApplication1")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("subSolution")>
+<Assembly: AssemblyProduct("WindowsApplication1")>
 <Assembly: AssemblyCopyright("Copyright ©  2016")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("ec5da3fc-50e4-4043-be3a-65f2b4062b46")>
+<Assembly: Guid("5d489368-a227-443f-a5f2-8a0b3d55cd64")>
 
 ' Version information for an assembly consists of the following four values:
 '
